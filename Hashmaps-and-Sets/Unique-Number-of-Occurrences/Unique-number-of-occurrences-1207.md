@@ -35,8 +35,7 @@ from collections import Counter
 
 ## Tracking Occurrences
 
-```occurrences = set()
-```
+```occurrences = set()```
 
 ```occurrences = set()```: Initializes an empty set to keep track of the counts seen so far.
 
