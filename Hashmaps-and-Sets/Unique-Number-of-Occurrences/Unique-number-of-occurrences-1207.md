@@ -28,9 +28,8 @@ from collections import Counter
 ```from collections import Counter```: Imports the Counter class from the collections module to facilitate counting elements.
 
 ## Creating the Counter Object
-```
-counter = Counter(arr)
-```
+
+```counter = Counter(arr)```
 
 ```counter = Counter(arr)```: Counts the occurrences of each element in the list arr. The result is a dictionary-like object where keys are elements of arr and values are their counts.
 
